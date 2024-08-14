@@ -10,3 +10,5 @@ redirect_from:
 
 Welcome to Ejiro Umaka's webpage!
 
+I am currently a research associate at Brookhaven National Laboratory working on the sPHENIX experiment. My research focuses on understanding properties of the quark-gluon plasma created in heavy-ion collisions.
+
