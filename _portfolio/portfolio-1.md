@@ -1,2 +1,0 @@
-
-This is a page that gives a quick description about me
