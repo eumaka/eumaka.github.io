@@ -5,9 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap"> A full list of publications may be found at  <a href="https://inspirehep.net/authors/1454351">List of Publications</a>.</div>
 {% endif %}
+
+
 
 
 
